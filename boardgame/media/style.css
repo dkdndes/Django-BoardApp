@@ -1,0 +1,102 @@
+body { 
+	background-color:#104E8B;
+	font-family:"Calibri","Tahoma","Arial";
+	font-size:14px;
+	margin: 0;
+	padding: 0;
+}
+h1 { 
+	margin:2 15;
+	
+}
+h3 {
+	padding:0;
+	margin: 3px 10px;
+}
+h2 {
+	padding: 0;
+	margin: 5px 5px;
+	float:left;
+	
+}
+
+
+.menuBtn{
+	height:32px;
+	margin:2px 5px;
+
+}
+.menuHeaderImg {
+	margin: 5px;
+	float:left;
+	height:24px;
+}
+#headMenu {
+	height:40px;
+}	
+.headline {
+	margin: 0;
+	padding: 0px;
+	background-color:#1874CD;
+	border-bottom:1px solid black;
+	text-align:center;
+}
+.menu {
+	margin:15px;
+	width: 220px;
+	min-height: 200px;
+	background-color:#1874CD; 
+	border:1px solid black;
+}
+.spielfeld { 
+	padding: 10px; 
+	margin:auto; 
+	height: 832px; 
+	width: 832px;
+}
+.spielfeldb { 
+	padding: 10px; 
+	margin:auto; 
+	height: 1144px; 
+	width: 1144px;
+}
+.feld { 	
+	float:left; 
+	margin:1px; 
+	width:100px; 
+	height:100px; 
+	background-color:#1874CD; 
+	border-width:1px; 
+	border-style:solid; 
+	border-color:black;
+}
+.fakefeld { 	
+	float:left; 
+	margin:2px; 
+	width:100px; 
+	height:100px; 
+}
+.spielfigur { 
+	float:left;
+	border-radius: 50%; 
+	width: 80px; 
+	height: 80px;  
+	background-color:white; 
+	margin:10px; 
+	border:1px solid black;
+}
+.hover { 
+	border-color:#669999; 
+}
+#s1 { 
+	background-color:blue; 
+}
+#s2 { 
+	background-color:green; 
+}
+#s3 { 
+	background-color:red; 
+}
+#s4 { 
+	background-color:yellow; 
+}
